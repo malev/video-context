@@ -1,0 +1,8 @@
+{
+  "name": "video-context",
+  "private": true,
+  "dependencies": {
+    "popcorn-js": "1.5.6"
+  },
+  "devDependencies": {}
+}
