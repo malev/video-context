@@ -1,4 +1,3 @@
-//= require popcorn-js/popcorn
-//= require popcorn-js/players/youtube/popcorn.youtube
+//= require popcorn-js/popcorn-complete
 
 //= require app
